@@ -1,4 +1,5 @@
 Quake III Arena GPL source release
+Modified by Chinmay Tiwari
 ==================================
 
 This file contains the following sections:
